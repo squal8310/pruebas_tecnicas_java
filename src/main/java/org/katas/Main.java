@@ -10,6 +10,8 @@ public class Main {
 
     private static MotorCalculosService motorCalculosService;
 
+    private String strFi;
+    
     public Main(){
 
     }
