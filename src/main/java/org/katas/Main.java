@@ -14,6 +14,8 @@ public class Main {
 
     private String agreganueva;
 
+    private String strFi;
+    
     public Main(){
 
     }
