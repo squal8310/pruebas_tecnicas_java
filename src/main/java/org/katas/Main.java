@@ -10,6 +10,12 @@ public class Main {
 
     private static MotorCalculosService motorCalculosService;
 
+    private String conjuntoNumerico;
+
+    private String agreganueva;
+
+    private String strFi;
+    
     public Main(){
 
     }
